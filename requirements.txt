@@ -1,0 +1,6 @@
+mmcv==1.5.3
+mmcv-full==1.5.3
+mmdet==2.25.0
+mmpose==0.27.0
+pip-chill==1.0.1
+opencv-contrib-python>=4.5.5
